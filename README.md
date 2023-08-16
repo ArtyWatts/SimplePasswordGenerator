@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-I have been slacking when it comes to choosing and storing passwords correctly. To combat this and to practice some Python I coded a simple password generator that that asks for the required password length and if to include numbers and/or special characters.
+I have been slacking when it comes to choosing and storing passwords correctly. To combat this and to practice some Python I coded a simple password generator that asks for the required password length and if to include numbers and/or special characters.
 <br />
 
 
